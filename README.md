@@ -1,7 +1,7 @@
 <p align="center">Cheats made by someone who knows more about what they're doing</p>
 <h3 align="center"><a href="https://discord.gg/jHjGrrdXP6">Support Server</a></h2>
 <h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h2>
-
+i dont own this project this is just a fork of the original project this is more brain rot
 # Licensing
 This repository is licensed under the AGPL 3.0 License. 
 #### What does this mean? / What can I do with this?

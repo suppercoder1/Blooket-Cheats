@@ -1162,7 +1162,7 @@
                         },
                     },
                     {
-                        name: "Auto Choose",
+                        name: "Auto most gold",
                         description: "Automatically picks the option that would give you the most gold",
                         type: "toggle",
                         enabled: false,
@@ -1236,8 +1236,8 @@
                         },
                     },
                     {
-                        name: "Remove Bad Choices",
-                        description: "Removes the chance of getting Lose 25%, Lose 50%, and Nothing",
+                        name: "Remove Bad unsigma Choices",
+                        description: "Removes the chance of getting Lose 25%, Lose 50%, and Nothing :) ",
                         run: function () {
                             let iterator = Array.prototype[Symbol.iterator];
                             Array.prototype[Symbol.iterator] = function* values() {
@@ -1293,7 +1293,7 @@
                     },
                     {
                         name: "Set Player's Gold",
-                        description: "Sets another player's gold",
+                        description: "Sets another player's gold then the theatcher thinks they are cheating",
                         inputs: [
                             {
                                 name: "Player",
@@ -1318,7 +1318,7 @@
                     },
                     {
                         name: "Swap Gold",
-                        description: "Swaps gold with someone",
+                        description: "Swaps gold with someone lol",
                         inputs: [
                             {
                                 name: "Player",
@@ -1383,7 +1383,7 @@
                         },
                     },
                     {
-                        name: "Password ESP",
+                        name: "pro hacker",
                         description: "Highlights the correct password",
                         type: "toggle",
                         enabled: false,
@@ -1446,7 +1446,7 @@
                         },
                     },
                     {
-                        name: "Remove Hack",
+                        name: "unhack",
                         description: "Removes an attacking hack",
                         run: function () {
                             getStateNode().setState({ hack: "" });

@@ -925,7 +925,7 @@
                     },
                 },
                 {
-                    name: "Get Daily Rewards",
+                    name: "max daily rewards ",
                     description: "Gets max daily tokens and xp",
                     run: async function () {
                         if (!window.location.href.includes("play.blooket.com")) alert("This cheat only works on play.blooket.com, opening a new tab."), window.open("https://play.blooket.com/");
@@ -988,7 +988,7 @@
                     },
                 },
                 {
-                    name: "Use Any Blook",
+                    name: "get any blook",
                     description: "Allows you to play as any blook",
                     data: null,
                     getBlooks(isLobby, stateNode) {
@@ -1017,7 +1017,7 @@
                     },
                 },
                 {
-                    name: "Every Answer Correct",
+                    name: "smart as f#ck",
                     description: "Sets every answer to be correct",
                     run: function () {
                         const stateNode = getStateNode();
@@ -1054,7 +1054,7 @@
                     },
                 },
                 {
-                    name: "Remove Random Name",
+                    name: "your own sigma password",
                     description: "Allows you to put a custom name",
                     run: function () {
                         getStateNode().setState({ isRandom: false, client: { name: "" } });
